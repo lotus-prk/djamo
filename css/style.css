@@ -1,0 +1,128 @@
+.machette {
+    max-width: 500px;
+}
+
+
+.machette h3 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    background: linear-gradient(to right, #0105ff, #f5e501);
+    
+    background-clip: text;
+    color: transparent;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+
+}
+
+.raki ul{
+    text-decoration: none;
+}
+
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.btn-primary {
+    background-color: #0000FF;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.machette .Economisez{
+    background: linear-gradient(to right, red, green);
+    font-size: 60px;
+    background-clip: text;
+    color: transparent;
+}
+.machette .Gardez{
+    background: linear-gradient(to right, green, blue);
+    font-size: 50px;
+    background-clip: text;
+    color: transparent;
+}
+.machette .Vivez{
+    background: linear-gradient(to right, yellow, green);
+    font-size: 60px;
+    background-clip: text;
+    color: transparent;
+}
+.Nos{
+    text-align: center;
+    gap: 0;
+}
+.Nos h1{
+    background: linear-gradient(to right, pink, blue);
+    font-size: 60px;
+    background-clip: text;
+    color: transparent;
+    
+}
+.Nos p {
+    font-size: 20px ;
+    margin-top: -30PX;
+}
+.stars{
+    color: #4CAF50;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+}
+.Nos .tchai{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tchai img{
+    margin-top: -50px;
+}
+ h4{
+    text-align: center;
+    margin-top: -30px;
+   
+}
+.avis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.amis{
+    display:flex;
+    justify-content: center;
+    background-color: #F8E8A0;
+    margin: auto;
+    max-width: 800px;
+    border-radius: 15px;
+   margin-top: 30px;
+   padding-left: 107px;
+}
+.amis h2{
+    font-size: 30px;
+}
+button {
+    background-color: #007bff; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+.frais h3{
+    font-size: 80px;
+    text-align:center;
+}
